@@ -147,7 +147,7 @@ function setup() {
 	textFont(myfont1);
 	text('Five stars! This site is great! It cut my monthly bill in half! Im a bit of a potty mouth but this lets me correct my mistakes before I make them. \n - Steve 29 \n \n \n 3 stars. I dont like green, can you change the color to blue, please. \n - Karen 46 \n \n \n 4 stars. The service is fine but the layout is [Redacted]. Hope they fix it soon. \n - Greg 26', width*0.75-50, 1700, 300);
 	
-	link1 = createA("https://docs.google.com/document/d/1qX8DEA-FQB7ECrCB1c3e-dO3X_EP0zC1snkcER_DLps/edit?usp=sharing", "Go to Feedback >", "_blank"); //go to feedback
+	link1 = createA("https://docs.google.com/document/d/1qX8DEA-FQB7ECrCB1c3e-dO3X_EP0zC1snkcER_DLps/edit?usp=sharing", "Leave a Comment >", "_blank"); //go to feedback
 	link1.position(windowWidth-230, 2250);
 	textAlign(CENTER, CENTER);
 	
