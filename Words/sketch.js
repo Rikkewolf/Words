@@ -3,7 +3,7 @@ var link1;
 var button4;
 var buttonStart;
 var testwords = ["digital", "black", "box", "language", "words", "algorithm", "random", "design", "information", "science", "corona", "covid-19", "virus", "meme"];
-var swears = ["fuck", "shit", "cunt", "ass", "pussy", "cock", "dick"];
+var swears = ["fuck", "shit", "cunt", "ass", "pussy", "cock", "dick", "bitch", "asshole", "piss", "damn", "bastard", "god", "satan", "hell", "heaven", "nigga", "nigger", "crap", "moist", "dickhead", "motherfucker", "minge"];
 var testposs = 	['wdt', 'wp', 'wp$', 'wrb'];
 var testposs1 = ['cc', 'cd', 'dt', 'ex', 'fw',];
 var testposs2 =	['in', 'jj', 'jjr', 'jjs', 'ls', 'md'];
@@ -145,7 +145,7 @@ function setup() {
 	textSize(16);
 	fill (16.7, 57.5, 19.4);
 	textFont(myfont1);
-	text('Five stars! This site is great! It cut my monthly bill in half! Im a bit of a potty mouth but this lets me correct my mistakes before I make them. \n - Steve 29 \n \n \n 3 stars. I dont like green, can you change the color to blue, please. \n - Karen 46 \n \n \n 4 stars. The service is fine but the layout is [Redacted]. Hope they fix it soon. \n - Greg 26', width*0.75-50, 1700, 300);
+	text('Five stars! This site is great! It cut my monthly bill in half! Im a bit of a potty mouth but this lets me correct my mistakes before I make them. \n - Steve 29 \n \n \n 3 stars. I dont like green, can you change the color to blue, please. \n - Karen 46 \n \n \n 4 stars. The service is fine but the layout is [Redacted]. Hope they fix it soon. \n - Greg 26 \n \n \n 3 stars. A picture is worth 1000 words so you can only afford one? \n Mary 32', width*0.75-50, 1700, 300);
 	
 	link1 = createA("https://docs.google.com/document/d/1qX8DEA-FQB7ECrCB1c3e-dO3X_EP0zC1snkcER_DLps/edit?usp=sharing", "Free communication session >", "_blank"); //go to feedback
 	link1.position(windowWidth-230, 2250);
