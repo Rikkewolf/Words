@@ -148,7 +148,7 @@ function setup() {
 	text('Five stars! This site is great! It cut my monthly bill in half! Im a bit of a potty mouth but this lets me correct my mistakes before I make them. \n - Steve 29 \n \n \n 3 stars. I dont like green, can you change the color to blue, please. \n - Karen 46 \n \n \n 4 stars. The service is fine but the layout is [Redacted]. Hope they fix it soon. \n - Greg 26 \n \n \n 3 stars. A picture is worth 1000 words so you can only afford one? \n Mary 32', width*0.75-50, 1700, 300);
 	
 	link1 = createA("https://docs.google.com/document/d/1qX8DEA-FQB7ECrCB1c3e-dO3X_EP0zC1snkcER_DLps/edit?usp=sharing", "Leave a free comment >", "_blank"); //go to feedback
-	link1.position(windowWidth-330, 2250);
+	link1.position(windowWidth-300, 2250);
 	textAlign(CENTER, CENTER);
 	
 	fill (9, 9, 9);
