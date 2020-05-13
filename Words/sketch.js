@@ -97,7 +97,16 @@ function setup() {
 	text('Her', 1280, 1135);
 	text('Critic', 1510, 1135);
 	text('Shit', 1740, 1135);
-	text('Music', 1970, 1135);	
+	text('Music', 1970, 1135);
+	text('Meme', 2200, 1135);
+	text('Chocolate', 2430, 1135);
+	text('Trump', 2660, 1135);
+	text('Be', 2890, 1135);
+	text('Ice \n Cream', 3120, 1135);
+	text('Fear', 3350, 1135);
+	text('Art', 3580, 1135);
+	text('Black', 3810, 1135);
+	text('Dandruff', 4040, 1135);
 	
 	//circle next
 	stroke(100);
@@ -117,6 +126,16 @@ function setup() {
 	text('2.59 / Month', 1510, 1250);
 	text('1.99 / Month', 1740, 1250);
 	text('4.59 / Month', 1970, 1250);
+	text('3.95 / Month', 2200, 1250);
+	text('4.95 / Month', 2430, 1250);
+	text('1.99 / Month', 2660, 1250);
+	text('2.59 / Month', 2890, 1250);
+	text('2.59 / Month', 3120, 1250);
+	text('1.99 / Month', 3350, 1250);
+	text('3.99 / Month', 3580, 1250);
+	text('4.59 / Month', 3810, 1250);
+	text('3.59 / Month', 4040, 1250);
+	
 	
 	//section 3
 	fill (16.7, 57.5, 19.4);
@@ -136,7 +155,7 @@ function setup() {
 	textAlign(CENTER);
 	textFont(myfont2);
 	textLeading(25);
-	text('It can be quite the math problem to figure out what is a reasonable price for your expressions.  Our calculations are made by our patented algorithm and based on data gathered from a big range of online platforms. As such the algorithm relies on a long list of parameters. Some of which are: \n Changes in trends, frequent use, subject matter, context, intent, influence, body language, identity of [Redacted], trademarks, semiotics, the [Redacted] market, coherence, intended recipient, semantics, Jeff [Redacted] mood, whether it has appeared in [Redacted], cohesion, vocabulary, [Redacted] opinions, the current [Redacted] climate.', width*0.25-250, 1500, 300);
+	text('It can be quite the math problem to figure out what is a reasonable price for your expressions.  Our calculations are made by our patented algorithm and based on data gathered from a big range of online platforms. As such the algorithm relies on a long list of parameters. Some of which are: \n Changes in trends, frequent use, subject matter, context, intent, influence, body language, identity of [Redacted], trademarks, semiotics, the [Redacted] market, coherence, intended recipient, semantics, Jeff [Redacted] mood, whether it has appeared in [Redacted], cohesion, vocabulary, [Redacted] opinions, the current [Redacted] climate. We encourage you to remember these parameters when expressing yourself on a day to day basis, that way you can save both time and money on your monthly bill.', width*0.25-250, 1500, 300);
 	textAlign(CENTER);
 	text('Please remember that while our algorithm has been implemented on multiple platforms for over a year, this site is only in early stages of development. Please forgive the limited interaction possibilities but do leave a review and tell us what you would like implemented in the future.', width*0.75-50, 1500, 300);
 	textAlign(CENTER);
@@ -422,7 +441,16 @@ function mousePressed(){
 	text('Yeet', 1280, 1135);
 	text('Politics', 1510, 1135);
 	text('Be', 1740, 1135);
-	text('Yes', 1970, 1135);	
+	text('Yes', 1970, 1135);
+	text('Blog', 2200, 1135);
+	text('AK-47', 2430, 1135);
+	text('The', 2660, 1135);
+	text('Data', 2890, 1135);
+	text('Book', 3120, 1135);
+	text('News', 3350, 1135);
+	text('Game', 3580, 1135);
+	text('White', 3810, 1135);
+	text('Name', 4040, 1135);
 	
 	//circle next 2
 	stroke(100);
@@ -442,6 +470,15 @@ function mousePressed(){
 	text('3.99 / Month', 1510, 1250);
 	text('4.59 / Month', 1740, 1250);
 	text('3.59 / Month', 1970, 1250);
+	text('3.95 / Month', 2200, 1250);
+	text('4.95 / Month', 2430, 1250);
+	text('1.99 / Month', 2660, 1250);
+	text('2.59 / Month', 2890, 1250);
+	text('2.59 / Month', 3120, 1250);
+	text('1.99 / Month', 3350, 1250);
+	text('3.99 / Month', 3580, 1250);
+	text('4.59 / Month', 3810, 1250);
+	text('3.59 / Month', 4040, 1250);
 	
 	} else if (e < 60) {
 		
@@ -472,7 +509,16 @@ function mousePressed(){
 	text('Her', 1280, 1135);
 	text('Critic', 1510, 1135);
 	text('Shit', 1740, 1135);
-	text('Music', 1970, 1135);	
+	text('Music', 1970, 1135);
+	text('Meme', 2200, 1135);
+	text('Chocolate', 2430, 1135);
+	text('Trump', 2660, 1135);
+	text('Be', 2890, 1135);
+	text('Ice \n Cream', 3120, 1135);
+	text('Fear', 3350, 1135);
+	text('Art', 3580, 1135);
+	text('Black', 3810, 1135);
+	text('Dandruff', 4040, 1135);
 	
 	//circle next 3
 	stroke(100);
@@ -494,6 +540,15 @@ function mousePressed(){
 	text('2.59 / Month', 1510, 1250);
 	text('1.99 / Month', 1740, 1250);
 	text('4.59 / Month', 1970, 1250);
+	text('3.95 / Month', 2200, 1250);
+	text('4.95 / Month', 2430, 1250);
+	text('1.99 / Month', 2660, 1250);
+	text('2.59 / Month', 2890, 1250);
+	text('2.59 / Month', 3120, 1250);
+	text('1.99 / Month', 3350, 1250);
+	text('3.99 / Month', 3580, 1250);
+	text('4.59 / Month', 3810, 1250);
+	text('3.59 / Month', 4040, 1250);
 	}
 	
 	
