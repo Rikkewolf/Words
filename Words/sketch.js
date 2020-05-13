@@ -154,7 +154,7 @@ function setup() {
 	fill (9, 9, 9);
 	rect (0, 2230, windowWidth, 70);
 	fill (98.7, 93.7, 93.7);
-	link = createA("https://www.youtube.com/watch?v=LFasFq4GJYM", " < Go Back To Exhibition", "_blank"); //go to hub site
+	link = createA("https://torelaurits.wixsite.com/futurecoronavirus", " < Go Back To Exhibition", "_blank"); //go to hub site
 	link.position(30, 2250);
 }
 
