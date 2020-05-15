@@ -492,7 +492,7 @@ function mousePressed(){
 	textSize(15);
 	textAlign(CENTER, CENTER);
 	text('05/14/2026', windowWidth/2, 1300); 
-	text('Word of the Day: OXYPHENBUTAZONE - A type of inflammatory medication. 0.39 / Month', windowWidth/2, 1320);
+	text('Word of the Day: TRANSPARENT - A material that allows light to pass through so objects behind it can be directly seen. Easy to percieve or detect. 5.39 / Month', windowWidth/2, 1320);
 	for (var j = 50; j < width; j+=230) {
 		rect (j, 1060, 160, 170);
 	}
